@@ -25,7 +25,7 @@
   "devDependencies": [
       "browserify",
       "exorcist",
-      "uglify-js",
+      "uglify-es",
       "standard"
   ],
   "author": "George Farcasiu and Austin Middleton",
