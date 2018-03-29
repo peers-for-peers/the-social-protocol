@@ -1,2 +1,8 @@
 # Node
 node_modules/
+
+# VIM
+*.swp
+
+# Project
+build/
